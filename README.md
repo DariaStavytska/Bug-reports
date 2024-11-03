@@ -2,6 +2,8 @@
 
 ![img](https://github.com/DariaStavytska/Bug-reports/blob/main/%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4.png)
 
+## [Bug-reports](https://docs.google.com/spreadsheets/d/14d9qQ3EuIvIyuyDqB2HtngkJdoCOQlFc/edit?usp=sharing&ouid=106261971464242853133&rtpof=true&sd=true)
+
 Баг-репорт – це технічний документ, що описує ситуацію або послідовність дій, що призвела до некоректної роботи об’єкта тестування, з вказанням причин і очікуваного результату. 
 
 Основні атрибути баг-репорта.
